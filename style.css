@@ -1,0 +1,38 @@
+body{
+background-color: #1565C0
+}
+.Naslov{
+font-family: Calibri;
+font-size: 300%;
+text-align: center;
+background-color: #BBDEFB;
+color: #FFFFFF;
+center
+}
+.Podnaslov{
+font-family: Calibri;
+color: #FFFFFF;
+font-size: 300%;
+margin-left: 10px
+}
+.Slika{
+border: 6px #E3F2FD solid;
+padding: 5px;
+height: 300px;
+margin-left: 10px
+}
+.Slika:hover{
+border: 6px #BBDEFB dotted
+}
+.Gumb{
+width: 400px;
+height: 80px;
+border-radius: 10px;
+margin-left: 10px
+}
+.Kategorije{
+font-family: Calibri;
+font-size: 150%;
+color: #FFFFFF;
+margin-left: 10px;
+}
